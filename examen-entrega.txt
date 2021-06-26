@@ -1,0 +1,34 @@
+
+
+#TEMAS DE EXAMEN
+
+-HTML
+-HTML - ESTRUCTURA BASE 
+-CSS
+-CSS – FLEXBOX, GRID
+
+---------------------
+
+#1_DESARROLLO
+
+Construir las 2 paginas con todo lo visto en clase.
+
+---------------------
+
+#2_RESOLVER
+
+Encontrar y solucionar los errores del siguiente proyecto.
+Anotar los errores encontrados.
+
+-------------------
+
+#PROCESO DE EXAMEN
+
+DURACIÓN:  1 DIA (24hs)
+ENVIAR EN FORMATO .ZIP O POR GITHUB:  ariel.14.iyf@gmail.com
+
+-CALIFICACIÓN:
+APROBADO-DESAPROBADO-RECUPERAR
+
+
+
